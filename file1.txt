@@ -1,7 +1,3 @@
 Welcome to INFO 442 Week 2.
-<<<<<<< HEAD
-I'm eating pizza.
-=======
 Conflicts are awesome.
->>>>>>> da4cdfb (merging line 2)
 Hopefully rebasing can help in collaboration!
