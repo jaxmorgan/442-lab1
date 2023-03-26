@@ -1,5 +1,3 @@
 Welcome to INFO 442 Week 2.
 deleting line
 Hopefully rebasing can help in collaboration!
-new line
-testing
