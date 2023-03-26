@@ -8,5 +8,3 @@ Eating hotdogs.
 Hopefully rebasing can help in collaboration!
 =======
 Hopefully rebasing can help in collaboration!
-adding line four
->>>>>>> 828e416 (add line 4)
