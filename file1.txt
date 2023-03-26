@@ -1,5 +1,5 @@
 Welcome to INFO 442 Week 2.
-changing line 2
+changing line 2. changing this line
 Hopefully rebasing can help in collaboration!
 new line
 testing
